@@ -1,0 +1,16 @@
+{
+    "name": "basar1/cs306_hw3",
+    "autoload": {
+        "psr-4": {
+            "Basar1\\Cs306Hw3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "1"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^2.1"
+    }
+}
